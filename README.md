@@ -3,7 +3,8 @@
 </p>
 
 # 💫 About Me:
-I am software engineer 
+👋 Hi, I'm Aryan Raj — a CS student from India currently deep in data structures & algorithms and building toward real projects.
+When I'm not coding, I'm recording it — calm, unscripted sessions over on calmcodes.
 
 
 ## 🌐 Socials:
