@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.gif" width="100%">
+</p>
+
 # 💫 About Me:
 I am software engineer 
 
