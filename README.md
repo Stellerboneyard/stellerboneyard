@@ -6,6 +6,12 @@
 👋 Hi, I'm Aryan Raj — a CS student from India currently deep in data structures & algorithms and building toward real projects.
 When I'm not coding, I'm recording it — calm, unscripted sessions over on calmcodes.
 
+## 🗂️ Portfolio:
+**[→ ide-portfolio](https://stellerboneyard.github.io/ide-portfolio/)** — my primary portfolio: a real Monaco editor + a real terminal (xterm.js), built to actually look and work like VS Code. `help` in the terminal is a good place to start.
+
+Also: [a second, scroll-driven portfolio](https://stellerboneyard.github.io/portfolio/) — a morning-to-night frame sequence scrubbed by scroll position.
+
+Both are early and honest about it — open project slots stay marked "open," not dressed up as finished work.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/users/922130642731401248) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stellerboneyard.asmr?stkn=NW1lbTJkbjV2bTho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-raj-314a55380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanqbz@gmail.com) 
